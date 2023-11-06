@@ -48,7 +48,9 @@ const Contact = () => {
             <RiMessengerLine className="contact__option-icon" />
             <h4>Instagram</h4>
             <h5>ch.saikumar_</h5>
-            <a href="https://www.instagram.com/ch.saikumar_/" target="__blank">
+            <a
+              href="https://www.instagram.com/ch.saikumar_/  "
+              target="__blank">
               Send a message
             </a>
           </article>
