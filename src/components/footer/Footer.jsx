@@ -6,12 +6,12 @@ import "./footer.css";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      <a href="#footer" className="footer__logo">
         SAI KUMAR
       </a>
       <ul className="permanent__links">
         <li>
-          <a href="#">Home</a>
+          <a href="#footer">Home</a>
         </li>
         <li>
           <a href="#about">about</a>

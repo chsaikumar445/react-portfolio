@@ -1,7 +1,6 @@
 import avt1 from "../../assets/avatar1.jpg";
 import avt2 from "../../assets/avatar2.jpg";
 import avt3 from "../../assets/avatar3.jpg";
-import avt4 from "../../assets/avatar4.jpg";
 
 const data = [
   {
