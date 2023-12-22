@@ -1,6 +1,7 @@
 import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/delicious.png";
 import IMG3 from "../../assets/foodvilla.png";
+import IMG4 from "../../assets/onlinecodecomplier.png";
 
 const data = [
   {
@@ -23,6 +24,13 @@ const data = [
     title: "Food Villa",
     github: "https://github.com/",
     demo: "https://dribble.com/",
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: "Online Code Compiler",
+    github: "",
+    demo: "",
   },
 ];
 
