@@ -7,13 +7,13 @@ const data = [
     name: "Anusha",
     avatar: avt1,
     review:
-      "As a small business owner, I was in dire need of a digital transformation for my aging inventory system. When I approached Sai kumar, I was immediately struck by their enthusiasm and deep understanding of what could be done. Throughout the development process, they demonstrated exceptional skill in translating my non-technical requirements into a sleek, user-friendly application that has revolutionized the way we operate. Their ability to tackle technical challenges with ease and their unwavering commitment to meeting deadlines was nothing short of remarkable. I cannot recommend sai kumar highly enough – they are not just a developer, but a true technology partner",
+      "As a small business owner, I was in dire need of a digital transformation for my aging inventory system. When I approached Sai kumar,throughout the development process, they demonstrated exceptional skill in translating my non-technical requirements into a sleek, user-friendly application that has revolutionized the way we operate. Their ability to tackle technical challenges with ease and their unwavering commitment to meeting deadlines was nothing short of remarkable.He is not just a developer, but a true technology partner",
   },
   {
     name: "Feroz Khan",
     avatar: avt2,
     review:
-      "Having worked with sai kumar for over three years at Tech mahindra, I can say with confidence that they are one of the most skilled and reliable developers I've had the pleasure of collaborating with. Their code is not only clean and efficient but also demonstrates a level of thoughtfulness and consideration for future maintenance that is rare. sai kumar's contributions to our team go beyond just their technical work; they are a mentor to our junior staff and constantly bring innovative ideas that keep our projects ahead of the curve",
+      "Having worked with sai kumar for around a year at Tech mahindra, I can say with confidence that he is one of the most skilled and reliable developers I've had the pleasure of collaborating with. His code is not only clean and efficient but also demonstrates a level of thoughtfulness and consideration for future maintenance that is rare. sai kumar's contributions to our team go beyond just his technical work; He is also a mentor to our junior staff and constantly bring innovative ideas that keep My project ahead of the curve",
   },
   {
     name: "Shashank",
