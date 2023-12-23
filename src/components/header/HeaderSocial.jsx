@@ -5,9 +5,7 @@ import { FiInstagram } from "react-icons/fi";
 const HeaderSocial = () => {
   return (
     <div className="header__socials">
-      <a
-        href="https://www.linkedin.com/in/challagundla-sai-kumar-820867176/"
-        target="__balnk">
+      <a href="https://www.linkedin.com/in/sai-kumar-ch/" target="__balnk">
         <BsLinkedin />
       </a>
       <a href="https://github.com/chsaikumar445" target="__balnk">
