@@ -15,7 +15,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: "Delicious Website",
-    github: "https://github.com/",
+    github: "https://github.com/chsaikumar445/delicious-react-web-app",
     // demo: "https://dribble.com/",
   },
   {
