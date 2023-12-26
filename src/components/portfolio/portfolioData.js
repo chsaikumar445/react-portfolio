@@ -2,6 +2,7 @@ import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/delicious.png";
 import IMG3 from "../../assets/foodvilla.png";
 import IMG4 from "../../assets/onlinecodecomplier.png";
+import IMG5 from "../../assets/helloworld.png";
 
 const data = [
   {
@@ -16,21 +17,24 @@ const data = [
     image: IMG2,
     title: "Delicious Website",
     github: "https://github.com/chsaikumar445/delicious-react-web-app",
-    // demo: "https://dribble.com/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Food Villa",
     github: "https://github.com/chsaikumar445/swiggy-clone",
-    // demo: "https://dribble.com/",
   },
   {
     id: 4,
     image: IMG4,
     title: "Online Code Compiler",
     github: "",
-    // demo: "",
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "Hello world On Bare Metal",
+    github: "",
   },
 ];
 
