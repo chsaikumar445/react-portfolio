@@ -34,7 +34,7 @@ const data = [
     id: 5,
     image: IMG5,
     title: "Hello world On Bare Metal",
-    github: "",
+    github: "https://github.com/chsaikumar445/hello-world-bare-metal",
   },
 ];
 
