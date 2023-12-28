@@ -13,28 +13,28 @@ const data = [
     demo: "https://saikumar.pro/",
   },
   {
-    id: 2,
-    image: IMG2,
-    title: "Delicious Website",
-    github: "https://github.com/chsaikumar445/delicious-react-web-app",
-  },
-  {
-    id: 3,
-    image: IMG3,
-    title: "Food Villa",
-    github: "https://github.com/chsaikumar445/swiggy-clone",
-  },
-  {
     id: 4,
     image: IMG4,
     title: "Online Code Compiler",
     github: "https://github.com/chsaikumar445/online-code-compiler-frontend",
   },
   {
+    id: 2,
+    image: IMG2,
+    title: "Delicious Website",
+    github: "https://github.com/chsaikumar445/delicious-react-web-app",
+  },
+  {
     id: 5,
     image: IMG5,
     title: "Hello world On Bare Metal",
     github: "https://github.com/chsaikumar445/hello-world-bare-metal",
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Food Villa",
+    github: "https://github.com/chsaikumar445/swiggy-clone",
   },
 ];
 
