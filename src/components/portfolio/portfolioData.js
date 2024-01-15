@@ -3,6 +3,7 @@ import IMG2 from "../../assets/delicious.png";
 import IMG3 from "../../assets/foodvilla.png";
 import IMG4 from "../../assets/onlinecodecomplier.png";
 import IMG5 from "../../assets/helloworld.png";
+import IMG6 from "../../assets/netflixgpt.png";
 
 const data = [
   {
@@ -35,6 +36,12 @@ const data = [
     image: IMG3,
     title: "Food Villa",
     github: "https://github.com/chsaikumar445/swiggy-clone",
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "Netflix Gpt",
+    github: "https://github.com/chsaikumar445/netflixgpt",
   },
 ];
 
