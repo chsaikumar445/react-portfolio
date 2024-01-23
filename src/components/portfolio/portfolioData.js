@@ -42,6 +42,7 @@ const data = [
     image: IMG6,
     title: "Netflix Gpt",
     github: "https://github.com/chsaikumar445/netflixgpt",
+    demo: "https://main--luminous-liger-5b06d1.netlify.app/",
   },
 ];
 
