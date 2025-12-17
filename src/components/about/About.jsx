@@ -20,12 +20,12 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>9 years working</small>
+              <small>4+ years working</small>
             </article>
             <article className="about_card">
               <FiUsers className="about_icon" />
-              <h5>Clients</h5>
-              <small>7+ worldwide</small>
+              <h5>Companies</h5>
+              <small>2</small>
             </article>
             <article className="about_card">
               <FaAward className="about_icon" />
@@ -36,8 +36,8 @@ const About = () => {
           <p>
             Hola! I am sai kumar challagundla. I am a passionate software
             developer known for My exceptional coding skills and problem-solving
-            abilities. With a background in Computer Science in my Bachelor's
-            from Karunya University and .I spent the past 12 Years immersed in
+            abilities. With a background in Computer Science in my Masters
+            from Saint Louis University and .I spent the past 12 Years immersed in
             the world of software development.{" "}
             <strong className="want__to">wanna Know More?</strong>
           </p>
