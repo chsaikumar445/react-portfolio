@@ -37,7 +37,7 @@ const About = () => {
             Hola! I am sai kumar challagundla. I am a passionate software
             developer known for My exceptional coding skills and problem-solving
             abilities. With a background in Computer Science in my Masters
-            from Saint Louis University and .I spent the past 12 Years immersed in
+            from Saint Louis University and .I spent the past 5+ Years immersed in
             the world of software development.{" "}
             <strong className="want__to">wanna Know More?</strong>
           </p>
